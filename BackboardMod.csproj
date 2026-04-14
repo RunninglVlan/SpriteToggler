@@ -8,13 +8,13 @@
     <!--<DocumentationFile>$(OutputPath)/$(AssemblyTitle).xml</DocumentationFile>-->
   </PropertyGroup>
   <PropertyGroup>
-    <RootNamespace>BackboardMod</RootNamespace>
-    <AssemblyName>BackboardMod</AssemblyName>
+    <RootNamespace>SpriteToggler</RootNamespace>
+    <AssemblyName>SpriteToggler</AssemblyName>
     <TargetFramework>net472</TargetFramework>
-    <AssemblyTitle>BackboardMod</AssemblyTitle>
-    <Product>BackboardMod</Product>
+    <AssemblyTitle>SpriteToggler</AssemblyTitle>
+    <Product>SpriteToggler</Product>
     <Description>A Hollow Knight Mod</Description>
-    <Copyright>Copyright ©  $year$</Copyright>
+    <Copyright>Copyright ©  2026</Copyright>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <FileVersion>1.0.0.0</FileVersion>
     <OutputPath>bin\$(Configuration)\</OutputPath>
