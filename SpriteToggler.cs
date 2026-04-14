@@ -12,7 +12,7 @@ namespace SpriteToggler {
         Settings settings = new();
         KeyCode toggleKey;
 
-        public override string GetVersion() => "1.1";
+        public override string GetVersion() => "1.1.0.0";
 
         public void OnLoadGlobal(Settings value) {
             settings = value;
